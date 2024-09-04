@@ -5,16 +5,16 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 class WelcomeController extends Controller
-// {
-//     public function hello() {
-//         return 'Hello World';
-//     }
-// }
+{
+    public function hello() {
+        return 'Hello World';
+    }
+}
 
 
 // {
 //     public function index() {
-//         return 'selamat datang';
+//         return 'selamat```````````````` datang';
 //     }
 // }
 
@@ -27,9 +27,11 @@ class WelcomeController extends Controller
 // }
 
 
-{
-    public function articles($id)
-    {
-        return "Halaman Artikel dengan ID: {$id}";
-    }
-}
+// {
+//     public function articles($id)
+//     {
+//         return "Halaman Artikel dengan ID: {$id}";
+//     }
+// }
+
+
